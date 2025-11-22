@@ -65,7 +65,7 @@ Frontend
 React - UI component library
 Tailwind CSS - Styling and responsive design
 Lucide React - Icon system
-Vibe Coding Tool - [Bolt.new / v0.dev / Replit]
+Vibe Coding Tool - Figma make
 Backend & Database
 Supabase - Backend as a Service
 PostgreSQL Database
